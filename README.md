@@ -2,7 +2,7 @@
 
 These Power BI dashboards provide a detailed analysis of credit card transaction data and customer demographics, enabling comprehensive insights into revenue patterns, customer behavior, and transactional trends. The dashboards offer a clear, visual breakdown of key metrics across various dimensions, making it easy for stakeholders to track and understand credit card usage and customer profiles.
 
-### Dashboard Link : https://1drv.ms/u/c/e966957d2243342e/EQu622TnC5ZEi98hDF3IrbwBV4nPYGjA282WceTxqxKQuA?e=VhqaLb
+### Dashboard Link : [https://1drv.ms/u/c/e966957d2243342e/EQu622TnC5ZEi98hDF3IrbwBV4nPYGjA282WceTxqxKQuA?e=VhqaLb](https://1drv.ms/u/c/e966957d2243342e/EQu622TnC5ZEi98hDF3IrbwBV4nPYGjA282WceTxqxKQuA?e=ObcTOM)
 
 ---
 
